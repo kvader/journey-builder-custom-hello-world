@@ -33,16 +33,16 @@
     "configurationArguments": {
        "applicationExtensionKey": "CHellowWorld",
        "save": {
-           "url": "URI/for/your/activity/save"
+           "url": "https://marketingtestavx.herokuapp.com/activity/save"
        },
        "publish": {
-           "url": "URI/for/your/activity/publish"
+           "url": "https://marketingtestavx.herokuapp.com/activity/publish"
        },
        "validate": {
-           "url": "URI/for/your/activity/validate"
+           "url": "https://marketingtestavx.herokuapp.com/activity/validate"
        },
        "stop": {
-           "url": "URI/for/your/activity/stop"
+           "url": "https://marketingtestavx.herokuapp.com/activity/stop"
        }
     },
     "wizardSteps": [
